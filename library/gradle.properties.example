@@ -1,0 +1,6 @@
+mavenVgbioUrl=http://maven.vgbio.com:8080/content/repositories/sdk/
+mavenUser=myusername
+mavenPass=mypassword
+
+compileVersion=18
+buildVersion=18.0.0

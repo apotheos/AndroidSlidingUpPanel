@@ -27,3 +27,4 @@ local.properties
 target/
 build/
 .gradle/
+gradle.properties
